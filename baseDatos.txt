@@ -1,0 +1,11 @@
+create database Videoclub
+
+create table peliculas
+(
+  codigo  int  primary key identity(1,1),
+  nombre  varchar(50),
+  imagen image
+
+)
+
+select * from peliculas

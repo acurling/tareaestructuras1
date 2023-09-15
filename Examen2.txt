@@ -1,0 +1,6 @@
+Examen
+Presentar un adelanto del proyecto con los siguientes temas
+1- Mantenimiento de almenos 10 tablas de la base de datos del proyecto, Este mantenimiento incluye las pantallas de Agregar, borrar, modificar y consultar funcionando
+2- El mantenimiento de la tabla de usuarios debe incluir la opcion para agregar fotografia de los usuarios en la base de datos y que se depliegue
+3- Agregar a la base de datos las tablas necesarias para administrar el sistema con Perfiles de seguridad para darle privilegios a los usuarios a los diferentes perfiles
+las tablas deben ser (Menu, MenuCategoria, Perfil, Perfil_Menu, Usuario_perfil, usuarios) tal y como lo vimos en clase. 
